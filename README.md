@@ -25,7 +25,7 @@ Currently, I'm studying **Python**, exploring **Machine Learning** algorithms, a
 
 ### 🌍 Social Links
 
-[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white)]([https://your-blog-link.com](https://blog.naver.com/oenereaty)
+[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white)](https://blog.naver.com/oenereaty)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/oenereaty)
 
 ---
