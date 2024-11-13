@@ -36,14 +36,3 @@ Currently, I'm studying **Python**, exploring **Machine Learning** algorithms, a
 - **Data Science**: Leveraging Python libraries like `Pandas`, `NumPy`, and `Matplotlib`.
 - **Agriculture Technology**: Studying IoT applications in smart farming.
 
----
-
-## 📈 GitHub Stats
-
-![Chae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&theme=radical)
-
----
-
-## 🌱 My Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
