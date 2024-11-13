@@ -1,7 +1,7 @@
-# 🌱 **Chae Kyeongwon** | Smart Farming Enthusiast 🌾
+# 🌱 **Chae Kyeongwon** 🌾
 
 Hi there! 👋  
-I'm a student at **Jeonbuk National University** in South Korea, majoring in **Smart Farming**.  
+I'm a student at **Jeonbuk National University** in South Korea, majoring in **Smart Farm**.  
 Currently focusing on **Machine Learning**, **Crop Modeling**, and **Statistics**.
 
 ---
